@@ -6,11 +6,19 @@ Aplicación que permita a los usuarios ingresar nombres de amigos en una lista p
 
 * Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
+![alt text](image.png)
+
 * Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+
+![alt text](image-1.png)
 
 * Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
+![alt text](image-2.png)
+
 * Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+![alt text](image-3.png)
 
 ## Cómo usar la aplicación
 
@@ -24,4 +32,4 @@ Aplicación que permita a los usuarios ingresar nombres de amigos en una lista p
 Este proyecto no tiene dependencias externas.  Utiliza HTML, CSS y JavaScript puro.
 
 ## Desarrolador
-Santiago 
+Santiago Gabriel Ocaranza.
