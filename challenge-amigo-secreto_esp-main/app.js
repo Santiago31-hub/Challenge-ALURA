@@ -1,5 +1,5 @@
 let amigos = [];
-function agregarAmigo{
+function agregarAmigo(){
     let input = document.getElementById("amigo");
     let nombre = input.value.trim();
 
